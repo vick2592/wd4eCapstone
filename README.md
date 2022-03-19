@@ -1,1 +1,1 @@
-# wd4eCapstone
+This is the Honors Project submission for Front End Web UI Frameworks Bootstrap. Included here is the souce code for my Bootstrap website that is also availble to view on wd4ecapstone.drivenbyfury.com
